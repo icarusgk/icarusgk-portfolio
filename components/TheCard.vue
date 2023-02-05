@@ -4,7 +4,7 @@
   <div class="flex flex-col mx-auto">
     <div class="flex flex-col text-center">
       <span class="text-2xl">Software Developer</span>
-      <span class="text-7xl font-bold">Roger Castro</span>
+      <span class="text-7xl font-bold <sm:text-5xl <md:text-6xl">Roger Castro</span>
     </div>
     <!-- Icons -->
     <div class="pt-4 flex gap-2 mx-auto">
