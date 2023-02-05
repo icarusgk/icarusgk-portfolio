@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss', 'nuxt-icon'],
+  modules: ['nuxt-windicss', 'nuxt-icon'],
 })
 
 
